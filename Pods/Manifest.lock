@@ -1,0 +1,20 @@
+PODS:
+  - ACProgressHUD-Swift (1.4)
+  - IQKeyboardManagerSwift (6.5.6)
+
+DEPENDENCIES:
+  - ACProgressHUD-Swift (~> 1.4)
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  trunk:
+    - ACProgressHUD-Swift
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  ACProgressHUD-Swift: 52a40fe3377959cfe84316dc0cf523c5d790bbe8
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+
+PODFILE CHECKSUM: 240772b9bc641f790de4dc17e6d6e3ada24f72f3
+
+COCOAPODS: 1.10.1
